@@ -4,7 +4,7 @@ version = "1.0.0"
 description = "Basics of Artificial Intelligence course at AGH"
 authors = []
 readme = "README.md"
-requires-python = ">=3.11,<4.0"
+requires-python = ">=3.11,<3.13"
 
 dependencies = [
     "imbalanced-learn>=0.14.0",
